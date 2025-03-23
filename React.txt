@@ -1,0 +1,8 @@
+Reason why I learn React. React help me to create Dynamic Application . 
+
+So what is a Dynamic Application ? 
+
+When the Application inside ram or it's running , I can interact with that Application based on input/event it's generate UI change . React full feel 
+my need and it's If I go to technical react use batch update and it's achieve 
+by VD(virtual dom) . VD help browser re-render less and update DOM element 
+efficently .
