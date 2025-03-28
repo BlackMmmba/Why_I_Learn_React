@@ -6,3 +6,5 @@ When the Application inside ram or it's running , I can interact with that Appli
 my need and if I go to technical react use batch update and it's achieve 
 by VD(virtual dom) . VD help browser re-render less and update DOM element 
 efficently .
+React create an illution that a singel page have muti-page application using component and state . State with 0/1 is only change little but if the state
+is object then it will be mangaed muti-page.
